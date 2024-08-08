@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDF Файл для читателей.md",
-                "mode": "source",
+                "file": "0. Начинайте отсюда.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF Файл для читателей.md",
+                "file": "0. Начинайте отсюда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF Файл для читателей.md",
+                "file": "0. Начинайте отсюда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF Файл для читателей.md"
+                "file": "0. Начинайте отсюда.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "9112fb047bc2e4b9",
   "lastOpenFiles": [
-    "().md",
     "PDF Файл для читателей.md",
+    "().md",
     "Примечания для читателей.md",
     "readme.md",
     "0. Начинайте отсюда.md",
