@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "385bf80e316fa93f",
+        "id": "d73c88598a76c32a",
         "type": "tabs",
         "children": [
           {
-            "id": "a04f384b1dfb2d43",
+            "id": "c6babedb22fd0095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Примечания для читателей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9112fb047bc2e4b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDF Файл для читателей.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2a344e7b3a62df5d",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "PDF Файл для читателей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "PDF Файл для читателей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "PDF Файл для читателей.md"
               }
             }
           }
@@ -150,11 +162,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a04f384b1dfb2d43",
+  "active": "9112fb047bc2e4b9",
   "lastOpenFiles": [
-    "0. Начинайте отсюда.md",
-    "readme.md",
+    "().md",
+    "PDF Файл для читателей.md",
     "Примечания для читателей.md",
+    "readme.md",
+    "0. Начинайте отсюда.md",
     "5. Общие рекомендации по переводу.md",
     "4. Правила для обеспечения постоянства.md",
     "3. Все персонажи.md",
@@ -195,8 +209,6 @@
     "Персонажи/Курт Грибель.md",
     "Персонажи/Катя Вальдхайм.md",
     "Персонажи/Иоаким Балк.md",
-    "Персонажи/Ингхильда Брониковски.md",
-    "Персонажи/Гретель Еккельн.md",
-    "Персонажи/Вальтер Крюгер.md"
+    "Персонажи/Ингхильда Брониковски.md"
   ]
 }
