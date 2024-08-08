@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPenTool",
+      "LiSubtitles",
+      "LiList",
+      "LiRepeat",
+      "LiPencil"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "0. Начинайте отсюда.md": {
+    "iconName": "LiRocket",
+    "iconColor": "#09ecd2"
+  },
+  "1. Единичные места, требующие внимания.md": {
+    "iconName": "LiPencil",
+    "iconColor": "#ff9500"
+  },
+  "2. Повторения.md": {
+    "iconName": "LiRepeat",
+    "iconColor": "#ff0000"
+  },
+  "3. Все персонажи.md": {
+    "iconName": "LiList",
+    "iconColor": "#ffc800"
+  },
+  "4. Правила для обеспечения постоянства.md": {
+    "iconName": "LiSubtitles",
+    "iconColor": "#ff00d0"
+  },
+  "5. Общие рекомендации по переводу.md": {
+    "iconName": "LiPenTool",
+    "iconColor": "#00ff1e"
+  }
+}

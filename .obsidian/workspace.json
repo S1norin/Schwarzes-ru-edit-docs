@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "692e3065262940f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b132d327ac4854c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b0cfcc3e44f736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Начинайте отсюда.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f908b51e7004385f",
+    "type": "split",
+    "children": [
+      {
+        "id": "613fa42a67cf58f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bafabb18a3845cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "207f8dac8091e7fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b6c8228376a9cea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a344e7b3a62df5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f615154d823f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992e9c9ae047c34a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Начинайте отсюда.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3c3aa5e08cb49d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Начинайте отсюда.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75ad85363c89fc99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e6a018d76fef892",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Начинайте отсюда.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "a3b0cfcc3e44f736",
+  "lastOpenFiles": [
+    "Примечания для читателей.md",
+    "5. Общие рекомендации по переводу.md",
+    "4. Правила для обеспечения постоянства.md",
+    "3. Все персонажи.md",
+    "2. Повторения.md",
+    "1. Единичные места, требующие внимания.md",
+    "0. Начинайте отсюда.md",
+    "Obsidian/Markdown.md",
+    "Obsidian/Вложения/Пост 28.01.2024/Pasted image 20240128213417.png",
+    "Obsidian/Вложения/Пост 21.01.2024/Pasted image 20240121200709.png",
+    "Obsidian/Вложения/Пост 21.01.2024/Pasted image 20240121200605.png",
+    "Obsidian/Вложения/Пост 14.07.2024/TSF on street.psd",
+    "Obsidian/Вложения/Пост 14.07.2024/TSF on street.png",
+    "Obsidian/Вложения/Пост 11.02.2024/Pasted image 20240204231225.png",
+    "Obsidian/Вложения/Пост 05.08.2024/Video thumbnail.psd",
+    "Obsidian/Вложения/Пост 05.08.2024/Video thumbnail.jpg",
+    "Obsidian/Шаблоны/Пост прогресса (первый прогон).md",
+    "Obsidian/Шаблоны/Пост прогресса (второй прогон).md",
+    "Obsidian/Шаблоны/Not final translation.md",
+    "Obsidian/Шаблоны/Final translation.md",
+    "Obsidian/Шаблоны/Character sheet.md",
+    "Obsidian/Вложения/Пост 28.01.2024",
+    "Obsidian/Вложения/Пост 21.01.2024",
+    "Obsidian/Вложения/Пост 14.07.2024",
+    "Obsidian/Вложения/Пост 11.02.2024",
+    "Obsidian/Вложения/Пост 05.08.2024",
+    "Obsidian/Вложения/Theodor and Katya.png",
+    "Obsidian/Вложения/Pasted image 20240218231447.png",
+    "Obsidian/Вложения/Pasted image 20240129230330.png",
+    "Obsidian/Вложения/Pasted image 20240129225130.png",
+    "Obsidian/Шаблоны",
+    "Obsidian/Что такое Obsidian и с чем его едят.md",
+    "Obsidian/Вложения",
+    "Obsidian",
+    "Персонажи/Фам Ти-Лан.md",
+    "Персонажи/Теодор Эбербах.md",
+    "Персонажи/Сильвия Кщащиская.md",
+    "Персонажи/Отто Штраус.md",
+    "Персонажи/Лиза Хоэнштайн.md",
+    "Персонажи/Курт Грибель.md",
+    "Персонажи/Катя Вальдхайм.md",
+    "Персонажи/Иоаким Балк.md",
+    "Персонажи/Ингхильда Брониковски.md",
+    "Персонажи/Гретель Еккельн.md",
+    "Персонажи/Вальтер Крюгер.md",
+    "Персонажи/Беатрикс Бреме.md"
+  ]
+}
